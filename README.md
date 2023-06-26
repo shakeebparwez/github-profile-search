@@ -11,40 +11,6 @@ This repository contains a basic React application created using Vite that allow
 - Simple and intuitive design
 - Easy to customize and build upon
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/github-user-search.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd github-user-search
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
-
-## Usage
-
-1. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-2. Open your web browser and visit `http://localhost:3000`.
-
-3. Enter a GitHub username in the search field and click the search button.
-
-4. The app will fetch the user's profile information from the GitHub API and display the profile image and username.
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas or improvements, please create a pull request and we'll review it together.
