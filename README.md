@@ -49,10 +49,6 @@ This repository contains a basic React application created using Vite that allow
 
 Contributions are welcome! If you have any ideas or improvements, please create a pull request and we'll review it together.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces.
