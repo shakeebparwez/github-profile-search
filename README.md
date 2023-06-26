@@ -2,6 +2,8 @@
 
 This repository contains a basic React application created using Vite that allows users to search for a GitHub username and retrieve the associated GitHub account information, including the profile image and username.
 
+![screenshot](app_screenshot.png)
+
 ## Features
 
 - User-friendly interface for entering a GitHub username
