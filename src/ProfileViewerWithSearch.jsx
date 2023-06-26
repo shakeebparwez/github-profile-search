@@ -13,8 +13,13 @@ function ProfileViewerWithSearch() {
   useEffect(
     function fetchUserOnUsernameChange() {
       async function fetchUser() {
+        try{
         const userResult = await axios.get(`${BASE_URL}/${username}`);
         setProfile({ data: userResult.data, isLoading: false });
+        }
+        catch{
+          setProfile({ data: {name: "ERROR 404 NOT FOUND"}, isLoading: false });
+        }
       }
       fetchUser();
     },
